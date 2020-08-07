@@ -1,3 +1,6 @@
-0
--606.9473050619667
-0.0
+phenotype,t_stat,p_value
+Phenotype_A,310.024038293388,0
+Phenotype_B,-668.058158922535,0
+Phenotype_C,-352.919702322368,0
+Phenotype_D,-691.719392423882,0
+Phenotype_E,-606.947305061966,0
